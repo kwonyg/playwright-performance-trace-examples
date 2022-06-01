@@ -1,0 +1,12 @@
+{
+  "name": "playwright-performance-trace-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "npx playwright test --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.22.2"
+  }
+}
