@@ -21,7 +21,7 @@
   $ npx playwright install
   ```
 
-- excute
+- test
 
   ```
   $yarn test
