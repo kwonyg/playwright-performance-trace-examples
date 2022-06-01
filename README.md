@@ -1,6 +1,6 @@
-# Playwright 퍼포먼스 측정 examples
+# Playwright Performance Trace Examples
 
-인터렉션 퍼포먼스 측정 환경 구축 examples
+인터렉션 퍼포먼스 측정 환경 examples
 
 ## working list
 
