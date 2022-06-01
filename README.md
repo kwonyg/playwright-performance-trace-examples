@@ -32,3 +32,9 @@
 ## API
 
 - https://playwright.dev/docs/api/class-browser#browser-start-tracing
+
+## Reference
+
+- https://web.dev/learn-web-vitals/
+- https://csstriggers.com/
+- https://gist.github.com/paulirish/5d52fb081b3570c81e3a
