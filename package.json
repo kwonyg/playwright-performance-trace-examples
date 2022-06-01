@@ -5,6 +5,7 @@
     "test": "npx playwright test --headed"
   },
   "devDependencies": {
-    "@playwright/test": "^1.22.2"
+    "@playwright/test": "^1.22.2",
+    "typescript": "^4.7.2"
   }
 }
