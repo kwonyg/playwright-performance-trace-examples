@@ -35,6 +35,7 @@
 
 ## Reference
 
+- [playwright](https://playwright.dev/)
 - https://web.dev/learn-web-vitals/
 - https://csstriggers.com/
 - https://gist.github.com/paulirish/5d52fb081b3570c81e3a
