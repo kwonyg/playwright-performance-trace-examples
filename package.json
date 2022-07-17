@@ -2,7 +2,7 @@
   "name": "playwright-performance-trace-example",
   "license": "UNLICENSED",
   "scripts": {
-    "test": "npx playwright test --headed"
+    "test": "npx playwright install && npx playwright test --headed"
   },
   "devDependencies": {
     "@playwright/test": "^1.22.2",
