@@ -12,6 +12,14 @@
 
 </details>
 
+<details><summary>drag</summary>
+
+[바로가기](./tests/drag.spec.ts)
+
+- ![](./static/drag.gif)
+
+</details>
+
 ## useage
 
 - install
